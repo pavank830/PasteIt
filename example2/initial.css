@@ -1,0 +1,39 @@
+div#heading {
+    background-color: #008000;
+margin: -21px -8px 11px -8px;
+width: auto;
+height: 77px;
+text-align: left;
+padding-top: 13px;
+padding-left: 24px;
+ }
+h1#paste{
+    width: 232px;
+}
+nav#navi{margin-top: -62px;
+margin-left: 1390px;;
+}
+a#pasteit {
+    color: white;
+    text-decoration:none;}
+a:hover#pasteit {
+
+    text-decoration:underline;
+}
+a#about {
+    font-size: 25px;
+    color: white;
+    text-decoration:none;
+}
+a:hover#about {
+    font-size: 38px;
+    text-decoration:underline;
+}
+div#lex {display: flex;}
+p.options-lexer {margin-left: 30px;}
+p.options-expire {margin-left: 30px;}
+
+input#submit {margin-left: 100px;
+background-color: green;
+font-size: 23px;
+color: white;}
